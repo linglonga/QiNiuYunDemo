@@ -26,7 +26,7 @@ public class Down {
 
         //读取字节流输入内容
         private static byte[] readInputStream(InputStream is){
-            System.out.println("测试");
+            sfsfsfsf
             ByteArrayOutputStream writer = new ByteArrayOutputStream();
             byte[] buff = new byte[1024 * 2];
             int len = 0;
